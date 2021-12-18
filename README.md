@@ -1,3 +1,3 @@
 # Info_search
 
-Information related to the program will be added soon.
+Just like the name, the program searches the information and prints the information of the given symbol number. The program was written solely for the student information management system. It can take the information given by user for any given 'n' number of students as input, can store them in a '.csv' file, search the information based on the symbol number provided by the user and can even delete the infomation. 
