@@ -283,7 +283,7 @@ int main()
             {
                 printf("\033[0;31m");               //Set the text to the color red
                 printf("\nThe given symbol number does not match with any symbol number stored in the database.");
-                printf("\n---------------------------------PLEASE TRY AGAIN---------------------------------\n\n");
+                printf("\n---------------------------------PLEASE TRY AGAIN ---------------------------------\n\n");
                 printf("\033[0m");                 //Resets the text to default color
                 fclose(fptr1);
                 fclose(fptr2);
