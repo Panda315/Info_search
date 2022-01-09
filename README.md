@@ -17,3 +17,5 @@ If the command is to search information, it takes the symbol number from the use
 If the command is to delete information, all the process involved during searching information are repeated and then after finding the desired information , it asks again for the confirmation to delete informationa and then deletes it upon the approval from the user.
 
 And the last command is to exit the home page terminal. It closes the program.
+
+Thank you !!!
